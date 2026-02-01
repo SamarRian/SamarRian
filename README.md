@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samar Rian</h1>
 <h3 align="center">A passionate React/Next JS developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samarrian&label=Profile%20views&color=0e75b6&style=flat" alt="samarrian" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samarrian" alt="samarrian" /></a> </p>
 
 - 🔭 I’m currently working on [Sanity Modular Templates](https://github.com/SamarRian/sanity-modular-template)
 
@@ -25,9 +22,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/samar rian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samar rian" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin/samarrian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin/samarrian" height="30" width="40" /></a>
 <a href="https://fb.com/samar rian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samar rian" height="30" width="40" /></a>
-<a href="https://instagram.com/its sam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its sam" height="30" width="40" /></a>
+<a href="https://instagram.com/its sam-reacts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its sam-reacts" height="30" width="40" /></a>
 <a href="https://dribbble.com/samar rian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="samar rian" height="30" width="40" /></a>
 </p>
 
